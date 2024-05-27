@@ -13,7 +13,7 @@ Dataset: (https://www.kaggle.com/datasets/jangedoo/utkface-new)
 * TensorFlow
 * Scikit-learn
 
-  ## Neural Network
-  * CNN
+## Neural Network
+* CNN
 
   
