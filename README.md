@@ -1,5 +1,5 @@
 # Deep Learning Projects
 
-This repository contains multiple project in deep learning with jupyter notebook files.
+This repository contains multiple projects in deep learning with Jupyter notebook files.
 
 
