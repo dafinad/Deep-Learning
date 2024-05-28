@@ -6,5 +6,5 @@ This can be implemented using a CSV file that contains a list of color names and
 The application calculates the distance between the clicked color and each color in the data file to identify the name of the closest match.
 
 ## Libraries
-* OpenCV : For image processing 
+* OpenCV: For image processing 
 * Pandas: To handle the color data file.
